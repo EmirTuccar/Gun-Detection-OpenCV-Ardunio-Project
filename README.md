@@ -1,4 +1,5 @@
 # Gun-Detection-OpenCVArdunio-Project
+(Cas.xml trained model was taken from CodeMykr github user. Please if you want to use it star that project. "https://github.com/CodeMykr/Gun-Detection-Using-HaarCascade")
 
 Real-time Gun Detection and Localization System using Computer Vision and Arduino
 
